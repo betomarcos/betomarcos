@@ -20,9 +20,7 @@ Outside of work, I volunteer part-time as a Sports Performance Analyst at [Advan
 - MBA (2017)
 - B.A. in Economics (2014)
 
----
-
-### 📊 Data Analytics Work
+## 📊 Data Analytics Work
 
 **Client based projects:**
 - Conducting ad hoc SQL data analysis and generate curated datasets for reporting.
@@ -42,13 +40,10 @@ Outside of work, I volunteer part-time as a Sports Performance Analyst at [Advan
 - Evaluate athlete performance metrics from track & field competition data to assess development over time.
 - (WIP) Arsenal injuries assessment
 
----
-
-
-### 🛠️ 2025 Goals
+## 🛠️ 2025 Goals
 - Apply python statistical modeling in football analytics ⚽ _(regressions, probability, xG, xA, Shots, Possession value models)_
 
-### Contact Links
+## Contact Links
 [LinkedIn](https://www.linkedin.com/in/albertomarcosr/)  
 [Tableau Public](https://public.tableau.com/app/profile/alberto.marcos/vizzes)
 
