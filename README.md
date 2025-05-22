@@ -2,7 +2,7 @@
 Data Analyst | Business Intelligence | Sports Analytics Enthusiast ⚽
 
 ### 👋 About Me
-I'm a data analytics professional with 7+ years of experience in Business Analysis and Business Intelligence, currently working at [Quickpath](https://www.quickpath.com), where deliver data solutions for financial services clients.
+I'm a data analytics professional with 7+ years of experience in Business Analysis and Business Intelligence, currently working at [Quickpath](https://www.quickpath.com), where I deliver data solutions for financial services clients.
 
 Outside of work, I volunteer part-time as a Sports Performance Analyst at [Advancement Through Athletics](https://atathletics.org), where I've worked on measuring athletics performance using racing and training logs data.
 
