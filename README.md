@@ -37,8 +37,6 @@ Outside of work, I volunteer part-time as a Sports Performance Analyst at [Advan
 - 🏃 [Workout Impact on Sleep Analysis](https://github.com/betomarcos/sports_performance/blob/main/garmin_health_analysis.md).
   - Investigated correlations of independent variables (sleep) vs dependent variables (exercise load, allergies, alcohol)  
   _- SQL, Excel visualizations_
-- Evaluate athlete performance metrics from track & field competition data to assess development over time.
-- (WIP) Arsenal injuries assessment
 
 ## 2025 Goals
 - Apply python statistical modeling in football analytics ⚽ _(regressions, probability, xG, xA, Shots, Possession value models)_
